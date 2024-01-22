@@ -1,0 +1,17 @@
+/* App.css */
+
+body {
+    margin: 0;
+
+    /* Hide the horizontal scrollbar */
+}
+
+/* Add styles for your Navbar and Sidebar if needed */
+
+/* Adjust the width of the content area to account for the Sidebar */
+main {
+    margin-left: 250px;
+    /* Adjust this value based on the width of your Sidebar */
+}
+
+/* Additional styling for your components can go here */
