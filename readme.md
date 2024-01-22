@@ -75,7 +75,7 @@ This MERN (MongoDB, Express.js, React, Node.js) stack project is a full-stack we
 
 ## Installation
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone <https://github.com/ArifRahaman/MERNSTACK.git>`
 2. Install dependencies:
  # Backend(Port:3000):
   1.```cd backend```
