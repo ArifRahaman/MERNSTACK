@@ -24,6 +24,7 @@ const Login = () => {
     } else {
       window.alert("Login Successfull");
       navigate("/home");
+      return res;
     }
   };
   return (
